@@ -1,9 +1,10 @@
 Package: maxspeed
-Title: What the Package Does (One Line, Title Case)
+Title: Implementation of a non-linear model for predicting maximum speed from body size
 Version: 0.0.0.9000
 Authors@R:
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: An implementation of a model from physical first principles for explaining
+    the relationship between animal body size and speed from Hirt et al. (2017).
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
